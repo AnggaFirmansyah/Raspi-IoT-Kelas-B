@@ -6,7 +6,7 @@
 |------|-----|
 | Angga Firmansyah | 5027241062 |
 | Muhammad Ardiansyah Tri Wibowo | 5027241098 |
-| Yaskur Khalis Maulana Jati Yuwono | 5027241112 |
+| Yasykur Khalis Jati Maulana Yuwono | 5027241112 |
 
 ---
 
