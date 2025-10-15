@@ -152,10 +152,8 @@ Temp=27.4°C  81.3°F    Humidity=65.0%
 | No | Keterangan | Gambar / Bukti |
 |----|-------------|----------------|
 | 1 | Foto rangkaian alat | ![WhatsApp Image 2025-10-15 at 11 48 40 (1)](https://github.com/user-attachments/assets/b6a942d7-fd6c-49c1-927e-c3dd1569fb5e) |
-|
-| 2 | Screenshot output terminal | |
-| 3 | Screenshot data di dashboard MQTT | ![WhatsApp Image 2025-10-15 at 11 48 39 (1)](https://github.com/user-attachments/assets/7594bba0-ad73-4632-975d-bc4b12253db2) |
-| |
+| 2 | Screenshot data di dashboard MQTT | ![WhatsApp Image 2025-10-15 at 11 48 39 (1)](https://github.com/user-attachments/assets/7594bba0-ad73-4632-975d-bc4b12253db2) |
+
 
 
 ---
