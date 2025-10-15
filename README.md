@@ -52,6 +52,7 @@ pip install paho-mqtt
 ---
 
 ## 💾 Kode Program (Python)
+```
 import time
 import board
 import adafruit_dht
@@ -113,7 +114,7 @@ finally:
     dht_sensor.exit()
     client.loop_stop()
     client.disconnect()
-
+```
 ---
 
 ## 🧠 Penjelasan Kode
